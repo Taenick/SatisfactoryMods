@@ -9,6 +9,13 @@ A rebuild of **Water Pools Plus Redux** (originally by Sam Crosscat, Redux by Ac
 to restore compatibility after a major Satisfactory engine/game update broke the
 original release. Built against Unreal Engine 5.6.1-CSS with SML.
 
+- **Mod version**: 1.0.8
+- **Target game version**: Satisfactory build ≥ 491125
+- **AI assistance**: this rebuild (debugging, blueprint fixes, and a new
+  native code hook for the dismantle crash) was done with the help of
+  Claude Code (Anthropic). All changes were tested in-game before being
+  committed here.
+
 ### What it does
 
 Lets you place a Water Extractor on a portable, paintable Water Pool (Large,
