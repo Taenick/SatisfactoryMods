@@ -16,4 +16,7 @@ See each mod's own README for full details, fixes, and usage instructions.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE) — applies to original code/changes in this repo.
+Some mods (e.g. WPPRedux) are rebuilds of third-party mods and contain
+original assets that are **not** covered by this license; see that mod's own
+README for details.

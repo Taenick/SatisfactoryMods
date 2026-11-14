@@ -68,3 +68,22 @@ This folder contains everything needed to rebuild from scratch: `Source/`,
 Satisfactory modding project's `Mods/` folder and build with Alpakit (requires
 the Satisfactory Modding Unreal Engine fork and SML, per the version
 constraints in `WPPRedux.uplugin`).
+
+## License & attribution
+
+This folder is a modified copy of **Water Pools Plus Redux**, originally
+created by Sam Crosscat, with the Redux rebuild by Acxd. The original meshes,
+textures, materials, and Blueprint assets in `Content/` remain the property
+of their original authors — this repository does not claim ownership of
+them, and the repo-level [MIT license](../LICENSE) does **not** extend to
+that original content.
+
+The MIT license applies only to the changes made in this rebuild: the new
+C++ native hook in `Source/WaterPoolsPlus/WaterPoolsPlus.cpp`, the Access
+Transformer config changes, and the specific Blueprint edits described above
+(hologram/collision fixes, schematic unlock wiring, material node rewiring,
+etc.).
+
+This is a personal, non-commercial compatibility fix kept for private/backup
+use. If you are the original author and want this taken down or handled
+differently, open an issue on this repo.
