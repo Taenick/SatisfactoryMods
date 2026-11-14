@@ -3,6 +3,10 @@
 Personal fork/rebuild of Satisfactory mods, kept here so fixes survive even if an
 upstream author updates (or doesn't update) their version.
 
+## License
+
+MIT — see [LICENSE](LICENSE).
+
 ## WPPRedux (Water Pools Plus Redux)
 
 A rebuild of **Water Pools Plus Redux** (originally by Sam Crosscat, Redux by Acxd)
