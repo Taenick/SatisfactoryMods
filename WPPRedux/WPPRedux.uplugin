@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"SemVersion": "1.0.8",
+	"AcceptsAnyRemoteVersion": false,
+	"Version": 1,
+	"VersionName": "1.0.8",
+	"FriendlyName": "Water Pools Plus Redux",
+	"Description": "Place your Water Extractors with style - in a portable Water Pool!",
+	"Category": "Modding",
+	"CreatedBy": "Sam Crosscat, Acxd (Redux), rebuilt for personal use",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/pz2U6FvMat",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.12.0",
+			"bIsOptional": false,
+			"Enabled": true
+		},
+		{
+			"Name": "UniversalSoftClearance",
+			"SemVersion": "^1.1.0",
+			"bIsOptional": true,
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "WaterPoolsPlus",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"GameVersion": ">=491125"
+}
